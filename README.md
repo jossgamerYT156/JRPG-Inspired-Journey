@@ -33,7 +33,7 @@ Here’s a step-by-step guide to get everything running!
 4. Open it with Apple Shortcuts – it will be imported automatically.
    > You can also review or customize it if you'd like!
 5. Add it to your Home Screen so it’s easy to access.
-6. Manually add your app automation (guide available in the `Apple Shortcuts/` directory of this repo).
+6. Manually add your app automation (guide available in the [`Apple Shortcuts/`](https://github.com/jossgamerYT156/JRPG-Inspired-Journey/blob/main/Apple%20Shortcuts/How%20To%20Install%3AAutomation.md) directory of this repo).
 7. **GRIND FOR XP!!! 💪🧙‍♀️⚔️**
 
 ---
